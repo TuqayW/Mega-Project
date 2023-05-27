@@ -1,0 +1,81 @@
+.meandyou{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .header{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        h1{
+            font-family: 'DM Serif Display';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 47px;
+            line-height: 62px;
+            text-align: center;
+            letter-spacing: 0.22px;
+            color: #292F36;
+        }
+        p{
+            font-family: 'Jost';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 22px;
+            line-height: 33px;
+            text-align: center;
+            letter-spacing: 0.22px;
+            color: #4D5053;
+        }
+    }
+    .projects{
+        margin-top: 50px;
+        display: flex;
+        width: 80%;
+        height: 100%;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        .pr{
+            display: flex;
+            height: 800px;
+            justify-content: space-around;
+            align-items: start;
+            flex-direction: column;
+            .asa{
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                .part1{
+                    display: flex;
+                    justify-content: center;
+                    align-items: start;
+                    flex-direction: column;
+                    h1{
+                        font-family: 'DM Serif Display';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        line-height: 38px;
+                        letter-spacing: 0.22px;
+                        color: #292F36;
+                    }
+                    p{
+                        font-family: 'Jost';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 22px;
+                        line-height: 33px;
+                        letter-spacing: 0.22px;
+                        color: #4D5053;
+                    }
+                }
+            }
+        }
+    }
+}

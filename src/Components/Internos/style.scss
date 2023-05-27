@@ -1,0 +1,39 @@
+.love-song{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .maimi{
+        width: 83%;
+        height: 70vh;
+        background: #F4F0EC;
+        border-radius: 70px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        .down{
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .upper{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            h1{
+                font-family: 'DM Serif Display';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 45px;
+                line-height: 58px;
+                text-align: center;
+                letter-spacing: 0.22px;
+                color: #292F36;
+            }
+        }
+    }
+}

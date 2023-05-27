@@ -1,0 +1,20 @@
+[
+    {
+        "img":"./lisa.svg",
+        "name":"Lisa Clairton",
+        "country":"New York, USA",
+        "mes":"We selected Interno interior because of rigorous design background & education."
+    },
+    {
+        "img":"./david.svg",
+        "name":"David Knight",
+        "country":"Sydney, Australia",
+        "mes":"The team exceeded our expectations and emerged as leaders of our project's."
+    },
+    {
+        "img":"./lisas.svg",
+        "name":"Lisa Clairton",
+        "country":"Paris, France",
+        "mes":"They balanced the architectural vision and the project realities beautifully."
+    }
+]
